@@ -1,0 +1,11 @@
+{
+    "name": "Psb",
+    "alias": "psb",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Psb\\Providers\\PsbServiceProvider"
+    ],
+    "files": []
+}
